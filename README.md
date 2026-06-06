@@ -1,7 +1,7 @@
 # AI-Based Hate Speech Detection Using NLTK and Machine Learning
 
 ## Overview
-This project detects hate speech, offensive comments, and normal comments on social media platforms using Machine Learning and Natural Language Processing.
+This project detects hate speech, offensive comments, and normal comments from social media platforms like Twitter, Facebook, Instagram using Machine Learning and Natural Language Processing.
 
 ## Technologies
 - Python
